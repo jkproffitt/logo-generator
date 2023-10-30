@@ -1,6 +1,6 @@
 # logo-generator
 
-[Video Link for Demo]()
+[Video Link for Demo](https://drive.google.com/file/d/1_MEb99xbc0kuuZ1rxbgcK4covXkHhrbP/view?usp=drive_link)
 
 -   [sample svg](Assets/examples/example1.svg)
 -   [sample svg 2](Assets/examples/example2.svg)
