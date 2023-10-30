@@ -85,7 +85,7 @@ async function init() {
 	});
 
 	let font_color = userInput.text_color;
-	let shape_color = userInput.shape;
+	let shape_color = userInput.shape_color;
 	let shape_type = userInput['shape'];
 
 	let shape;
