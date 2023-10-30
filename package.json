@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "//TODO [Video Link for Demo]() [sample svg]() [repo link]()",
   "main": "index.js",
-   "type": "module",
+  "type": "module",
   "directories": {
     "lib": "lib"
   },
@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "graceful-fs": "^4.2.11",
-    "inquirer": "^9.2.11"
+    "inquirer": "^9.2.11",
+    "jest": "^29.7.0"
   }
 }

@@ -1,10 +1,11 @@
 # logo-generator
 
 [Video Link for Demo]()
-[sample svg](Assets/examples/example1.svg)
-[sample svg 2](Assets/examples/example2.svg)
-[sample svg 3](Assets/examples/example3.svg)
-[Repo link](https://github.com/jkproffitt/logo-generator)
+
+-   [sample svg](Assets/examples/example1.svg)
+-   [sample svg 2](Assets/examples/example2.svg)
+-   [sample svg 3](Assets/examples/example3.svg)
+    [Repo link](https://github.com/jkproffitt/logo-generator)
 
 ## 10 Object-oriented Programming: SVG Logo Maker
 
