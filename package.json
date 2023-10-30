@@ -1,0 +1,20 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "//TODO [Video Link for Demo]() [sample svg]() [repo link]()",
+  "main": "index.js",
+   "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^9.2.11"
+  }
+}
