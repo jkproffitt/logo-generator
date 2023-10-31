@@ -17,5 +17,10 @@
     "graceful-fs": "^4.2.11",
     "inquirer": "^9.2.11",
     "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0"
   }
 }
